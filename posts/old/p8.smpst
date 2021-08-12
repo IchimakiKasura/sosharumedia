@@ -1,0 +1,18 @@
+<div id="form_Post">
+<img id="form_Picutre" src="img/astolfo.jpg" alt="astolfo" onclick="imgShow(this)"/>
+<h1 id="form_Name" title="Astolfo">Astolfo</h1>
+<p class="form_Status">
+I'll Suck your dick for free!<br>
+just summon me!
+</p>
+<hr>
+<button id="form_Buttons" onfocus="blur()">
+Like
+</button>
+<button id="form_Buttons" onfocus="blur()">
+Comment
+</button>
+<button id="form_Buttons" onfocus="blur()">
+Share
+</button>
+</div>

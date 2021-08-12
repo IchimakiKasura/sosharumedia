@@ -1,0 +1,40 @@
+@media only screen and (max-width: 1400px) {
+    #terms {
+        margin-right: 20vw !important;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    #terms2 {
+        margin-right: 100px !important;
+    }
+}
+html {
+    scroll-behavior: smooth;
+}
+#terms {
+    font-family: tahoma;
+    position: absolute;
+    top: 250px;
+    margin: 30px;
+    margin-left: 263px;
+    margin-right: 400px;
+    display: inline-block;
+    border-radius: 5px;
+    margin-bottom: 70vh;
+}
+#terms p {
+    margin: 20px;
+}
+#terms li {
+    margin: 30px;
+}
+#terms2 {
+    font-family: tahoma;
+    position: absolute;
+    top: 250px;
+    margin: 30px;
+    margin-left: 395px;
+    margin-right: 340px;
+    display: inline-block;
+    border-radius: 5px;
+}

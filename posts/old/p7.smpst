@@ -1,0 +1,17 @@
+<div id="form_Post">  <!-- zack -->
+<img id="form_Picutre" src="img/pfp2.jpg" alt="Zack" onclick="imgShow(this)"/>
+<h1 id="form_Name" title="Zack">Zack</h1>
+<p class="form_Status">
+Wait do any people know this website exist?
+</p>
+<hr>
+<button id="form_Buttons" onfocus="blur()">
+Like
+</button>
+<button id="form_Buttons" onfocus="blur()">
+Comment
+</button>
+<button id="form_Buttons" onfocus="blur()">
+Share
+</button>
+</div>

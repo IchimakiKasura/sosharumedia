@@ -1,0 +1,17 @@
+<div id="form_Post">
+<img id="form_Picutre" src="img/rushia.jpg" alt="rushia" onclick="imgShow(this)"/>
+<h1 id="form_Name" title="Rushia Ch.">Rushia Ch.</h1>
+<p class="form_Status">
+まな板じゃないよ！！やえろ！！
+</p>
+<hr>
+<button id="form_Buttons" onfocus="blur()">
+Like
+</button>
+<button id="form_Buttons" onfocus="blur()">
+Comment
+</button>
+<button id="form_Buttons" onfocus="blur()">
+Share
+</button>
+</div>

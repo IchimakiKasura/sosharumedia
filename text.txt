@@ -1,0 +1,53 @@
+upload video - 
+login - ✔
+register - 
+different user to received the other user generated post - ✔
+Load generated post from the disk - ✔
+save generated post into disk(folder) - ✔
+save users info into disk(folder)(login) - [database]
+see online users throught posts - ✔
+comment system - [in line | hold]
+liking system - [in line | hold]
+profile page - 
+see online users(localhost only) - [done in online]
+able to chat each other(chatting system through localhost) - 
+able to change profile picture - [in line | hold]
+able to change profile name - [owner approvals only]
+able to add friends - 
+able to accept friends - 
+open images - ✔
+upload photo - ✔
+post status - ✔
+save generated post(so refreshing the page it doesn't disappear) - ✔
+terms condition/about/privacy - ✔
+responsive web - ✔(might update)
+database - ✔
+
+TASK:
+fucking stop users from entering PHPMYADMIN.- ✔
+
+Put the freaking STRING from MYSQL DATABASE so they cant inject
+shitty there that would lead to destruction. - ✔
+
+Add expiration on the STATE's value column
+[3 mins expirationto set it to logout]. -
+
+
+
+
+
+username: TgOpfbYUe2QDQdfc
+password: 7IGtHSVD7B9LGHby
+
+<VirtualHost *>
+    ServerAdmin webmaster@www.sosharumedia.com
+    DocumentRoot "C:/xampp/htdocs/index"
+    ServerName www.sosharumedia.com
+    ErrorLog "logs/www.sosharumedia.com-error.log"
+    CustomLog "logs/www.sosharumedia.com-access.log" common
+</VirtualHost>
+
+ssh -R 80:localhost:80 ssh.localhost.run
+http://administrator-a1c855f2.localhost.run
+
+9A7d7IWfychjqwj9

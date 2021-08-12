@@ -1,0 +1,19 @@
+<div id="form_Post"> <!-- prado -->
+<img id="form_Picutre" src="img/prado.jpg" alt="Clainard Prado" onclick="imgShow(this)"/>
+<h1 id="form_Name" title="Clainard Prado">Clainard Prado</h1>
+<p class="form_Status" title="I literally Love Lolis! there is no one stopping me! HAHAHA">
+Y'all free to download it if you CAN! HAHAHAHA
+<p style="font-style:italic">[this picture has been deleted due to violating the guidelines]</p>
+<br>
+</p>
+<hr>
+<button id="form_Buttons" onfocus="blur()">
+Like
+</button>
+<button id="form_Buttons" onfocus="blur()">
+Comment
+</button>
+<button id="form_Buttons" onfocus="blur()">
+Share
+</button>
+</div>
